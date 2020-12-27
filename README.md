@@ -14,6 +14,7 @@ Arquivo excel com vba que gera estatísticas sobre os resultados dos jogos da Lo
 ## Quiz Acorde
 
 Quiz de acordes dinâmico utilizando teclado musical virtual.
+* [Acesse a aplicação clicando aqui](https://sauloalves10.github.io/quiz-acorde/)
 * [Acesse o repositório com os arquivos html 5 clicando aqui](https://github.com/SauloAlves10/quiz-acorde)
 
 Bom proveito!
