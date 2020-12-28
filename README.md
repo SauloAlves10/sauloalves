@@ -1,6 +1,6 @@
 # Repositório público do Saulo Alves
 
-Aqui você encontrará diversos projetos desenvolvidos em diversas linguagens de progamação, espero que alguns deles possam te ajudar de alguma forma.
+Aqui você encontrará diversos projetos desenvolvidos em diversas linguagens de programação, espero que alguns deles possam te ajudar de alguma forma.
 
 <img align="right" src="images/excel.png" width="125">
 
