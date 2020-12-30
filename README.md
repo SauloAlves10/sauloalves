@@ -6,18 +6,18 @@ Aqui você encontrará diversos projetos desenvolvidos em diversas linguagens de
 
 ## Lotofácil Stats
 
-Arquivo excel com vba que gera estatísticas sobre os resultados dos jogos da Lotofácil.
+Arquivo Excel com VBA que calcula e gera estatísticas sobre os resultados dos jogos da Lotofácil como média de dezenas sorteadas por jogo, porcentagem dos números sorteados, gráfico com a média de dezenas dos últimos 25 jogos, gerador de palpite, entre outros. 
 * [Acesse o repositório com o arquivo .xlsm clicando aqui](https://github.com/SauloAlves10/lotofacil-stats)
 
-<img align="right" src="images/html5.png" width="135">
+<img align="right" src="images/html_js_css.png" width="235">
 
 ## Quiz Acorde
 
-Quiz de acordes dinâmico utilizando teclado musical virtual.
+Criado em HTML, Javascript e CSS, é um quiz dinâmico de acordes que te ajudará a memorizar os principais acordes de forma rápida e intuitiva, a aplicação conta com um teclado musical virtual mas também é possível conectar um teclado musical físico através do protocolo MIDI.
 * [Acesse a aplicação clicando aqui](https://sauloalves10.github.io/quiz-acorde/)
 * [Acesse o repositório com os arquivos html 5 clicando aqui](https://github.com/SauloAlves10/quiz-acorde)
 
-<img align="right" src="images/AHK.png" width="135">
+<img align="right" src="images/ahk.png" width="135">
 
 ## Shut PC!
 
