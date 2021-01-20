@@ -15,7 +15,14 @@ Arquivo Excel com VBA que calcula e gera estatísticas sobre os resultados dos j
 
 Criado em HTML, Javascript e CSS, é um quiz dinâmico de acordes que te ajudará a memorizar os principais acordes de forma rápida e intuitiva, a aplicação conta com um teclado musical virtual mas também é possível conectar um teclado musical físico através do protocolo MIDI.
 * [Acesse a aplicação clicando aqui](https://sauloalves10.github.io/quiz-acorde/)
-* [Acesse o repositório com os arquivos html 5 clicando aqui](https://github.com/SauloAlves10/quiz-acorde)
+* [Acesse o repositório com os arquivos HMTL 5 clicando aqui](https://github.com/SauloAlves10/quiz-acorde)
+
+<img align="right" src="images/php-mysql.png" width="235">
+
+## Ping Devices PHP
+
+Desenvolvido com uma das linguangens de programação mais utilizadas no mundo e banco de Dados MySql, Ping Devices PHP é uma ferramenta simples e de fácil uso que te ajudará a realizar testes de ping em diversos devices em sequência, gerando uma lista com a nomenclatura dos itens, números de IPs, resultados dos testes de ping e se os itens se encontram disponíveis ou não.
+* [Acesse o repositório com os arquivos PHP e SQL clicando aqui](https://github.com/SauloAlves10/php-devices-php)
 
 <img align="right" src="images/ahk.png" width="135">
 
