@@ -22,6 +22,9 @@ Criado em HTML, Javascript e CSS, é um quiz dinâmico de acordes que te ajudar�
 ## Ping Devices PHP
 
 Desenvolvido com uma das linguangens de programação mais utilizadas no mundo e banco de Dados MySql, Ping Devices PHP é uma ferramenta simples e de fácil uso que te ajudará a realizar testes de ping em diversos devices em sequência, gerando uma lista com a nomenclatura dos itens, números de IPs, resultados dos testes de ping e se os itens se encontram disponíveis ou não.
+
+<img src="images/pdphp_screenshot.png" width="800">
+
 * [Acesse o repositório com os arquivos PHP e SQL clicando aqui](https://github.com/SauloAlves10/ping-devices-php)
 
 <img align="right" src="images/ahk.png" width="135">
@@ -29,6 +32,9 @@ Desenvolvido com uma das linguangens de programação mais utilizadas no mundo e
 ## Shut PC!
 
 É uma poderosa ferramenta desenvolvida em AutoHotkey que permite agendar funções de desligar, reiniciar, logoff e hibernar para seu computador, além disso possui funções de agendamento de mensagens com alerta sonoro e inicialização com o Windows. Tudo é muito fácil e rápido com a utilização da interface gráfica da aplicação, programando as tarefas a serem executadas em questões segundos.
+
+<img src="images/shut-pc_screenshot.png" width="350">
+
 * [Acesse a versão com instalador clicando aqui](https://github.com/SauloAlves10/shut-pc/tree/main/Shut%20PC!%201.2%20Installer)
 * [Acesse a versão portátil zipada clicando aqui](https://github.com/SauloAlves10/shut-pc/tree/main/Shut%20PC!%201.2%20Portable)
 * [Acesse o repositório com os arquivos clicando aqui](https://github.com/SauloAlves10/shut-pc)
