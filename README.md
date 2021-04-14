@@ -1,5 +1,3 @@
-<img align="left" src="images/my-octocat.png" width="145">
-
 # Repositório público do Saulo Alves
 
 Aqui você encontrará diversos projetos desenvolvidos em diversas linguagens de programação, espero que alguns deles possam te ajudar de alguma forma.
