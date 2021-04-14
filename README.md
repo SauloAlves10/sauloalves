@@ -23,6 +23,13 @@ Criado em HTML, Javascript e CSS, é um quiz dinâmico de acordes que te ajudar�
 
 <img src="images/quiz-acorde_screenshot.png">
 
+## Criptonum
+
+Fruto de um trabalho de faculdade cujo o objetivo era criar um sistema de criptografia e descriptografia utilizando uma chave simétrica.
+
+* [Acesse a aplicação clicando aqui](https://sauloalves10.github.io/criptonum/)
+* [Acesse o repositório com os arquivos HTML 5 clicando aqui](https://github.com/SauloAlves10/criptonum)
+
 <img align="right" src="images/php-mysql.png" width="235">
 
 ## Ping Devices PHP
