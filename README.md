@@ -30,6 +30,8 @@ Fruto de um trabalho de faculdade cujo o objetivo era criar um sistema de cripto
 * [Acesse a aplicação clicando aqui](https://sauloalves10.github.io/criptonum/)
 * [Acesse o repositório com os arquivos HTML 5 clicando aqui](https://github.com/SauloAlves10/criptonum)
 
+<img src="images/criptonum_screenshot.png">
+
 <img align="right" src="images/php-mysql.png" width="235">
 
 ## Ping Devices PHP
