@@ -36,7 +36,7 @@ Fruto de um trabalho de faculdade cujo o objetivo era criar um sistema de cripto
 
 ## Ping Devices PHP
 
-Desenvolvido com uma das linguangens de programação mais utilizadas no mundo e banco de Dados MySql, Ping Devices PHP é uma ferramenta simples e de fácil uso que te ajudará a realizar testes de ping em diversos devices em sequência, gerando uma lista com a nomenclatura dos itens, números de IPs, resultados dos testes de ping e se os itens se encontram disponíveis ou não.
+Desenvolvido com uma das linguangens de programação mais utilizadas no mundo e banco de Dados MySql, Ping Devices PHP é uma ferramenta simples e de fácil uso que te ajudará a realizar testes de ping em diversos devices em sequência, gerando uma lista com a nomenclatura dos itens, números de IPs, resultados dos testes de ping e se os itens estão disponíveis ou não.
 
 * [Acesse o repositório com os arquivos PHP e SQL clicando aqui](https://github.com/SauloAlves10/ping-devices-php)
 
