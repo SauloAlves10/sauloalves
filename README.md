@@ -54,4 +54,13 @@ Desenvolvido com uma das linguangens de programação mais utilizadas no mundo e
 
 <img src="images/shut-pc_screenshot.png" width="300">
 
+<img align="right" src="images/ra_logo.png" width="135">
+
+## Conquistas para o site RetroAchievements
+
+Achievements do jogo Plaque Attack (Atari 2600) criados através da ferramenta RALibRetro que permite inspecionar a memória de jogos e programar condições para acionamento de conquistas. 
+
+* [Acesse a página do jogo com a descrição dos achievements clicando aqui](https://retroachievements.org/game/13069)
+* [Acesse o repositório com imagens, arquivos TXT e JSON clicando aqui](https://github.com/SauloAlves10/retroachievements/tree/main/plaque_attack_atari_2600)
+
 Bom proveito!
