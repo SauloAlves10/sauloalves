@@ -54,7 +54,7 @@ Desenvolvido com uma das linguangens de programação mais utilizadas no mundo e
 
 <img src="images/shut-pc_screenshot.png" width="300">
 
-<img align="right" src="images/ra_logo.png" width="135">
+<img align="right" src="images/ra.png" width="135">
 
 ## Conquistas para o site RetroAchievements
 
