@@ -1,0 +1,54 @@
+@charset "UTF-8";
+
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: justify;
+    line-height: 1.5em;
+}
+
+main {
+    min-width: 320px;
+    max-width: 980px;
+    margin: auto;
+}
+
+hr {
+    border: none;
+    background-color: #dcdcdc;
+    height: 1px;
+}
+
+h1 {
+    font-weight: 600;
+}
+
+h2 {
+    margin: 40px 0 0 0;
+    font-weight: 600;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+a:visited {
+    color:#5c5cf1;
+}
+
+.gh-foto {
+    display: block;
+    margin: auto;
+}
+
+.screenshot {
+    width: 100%;
+}
+
+.icone {
+    float: right;
+    margin: 20px 0 0 20px;
+}
