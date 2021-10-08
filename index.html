@@ -8,6 +8,7 @@
     <title>sauloalves10.github.io</title>
     <link rel="shortcut icon" href="images/favicon-16x16.png" type="image/x-icon">
     <link rel="stylesheet" href="style.css">
+    <script defer src="script.js"></script>
 </head>
 
 <body>
@@ -15,7 +16,7 @@
         <h1><a href="https://sauloalves10.github.io/">sauloalves10.github.io</a></h1>
         <hr>
 
-        <img class="gh-foto" src="images/gh_foto.png"></span>
+        <img class="gh-foto" src="images/gh_foto.png">
 
         <h1 style="text-align:center"># Repositório público do Saulo Alves</h1>
     </header>
@@ -49,6 +50,12 @@
                 </ul>
             </ul>
             <ul>
+                <li>AutoHotkey</li>
+                <ul>
+                    <li><a href="#ahk">Shut PC!</a></li>
+                </ul>
+            </ul>
+            <ul>
                 <li>Outros</li>
                 <ul>
                     <li><a href="#conquistas-para-retroachievements">Conquistas para o site RetroAchievements</a></li>
@@ -70,12 +77,12 @@
                 <ul>
                     <li>
                         <a href="https://github.com/SauloAlves10/lotofacil-stats" target="_blank">Acesse o repositório
-                            com o
-                            arquivo
-                            .xlsm clicando aqui</a>
+                            com o arquivo .xlsm clicando aqui</a>
                     </li>
                 </ul>
+
                 <img class="screenshot" src="images/lotofacil-stats_screenshot.png">
+
             </article>
         </section>
 
@@ -174,7 +181,27 @@
                             clicando
                             aqui</a></li>
                 </ul>
-                <img style="display:block;margin:auto" src="images/shut-pc_screenshot.png">
+                <div class="screenshot-legenda">
+                    <div class="slide fade">
+                        <img class="screenshot" src="images/shut-pc_01.png">
+                        <div class="textoSlide">Tela principal do Shut PC!</div>
+                    </div>
+                    <div class="slide fade">
+                        <img class="screenshot" src="images/shut-pc_02.png">
+                        <div class="textoSlide">Mensagem sobre a programação dos horários das tarefas</div>
+                    </div>
+                    <div class="slide fade">
+                        <img class="screenshot" src="images/shut-pc_03.png">
+                        <div class="textoSlide">Mensagem disparada no horário programado</div>
+                    </div>
+                    <div class="setas seta-esquerda" onclick="mudarSlide(-1)"></div>
+                    <div class="setas seta-direita" onclick="mudarSlide(+1)"></div>
+                </div>
+                <div class="menu-indicadores" style="text-align:center">
+                    <span class="indicador" onclick="slideAtual(1)"></span>
+                    <span class="indicador" onclick="slideAtual(2)"></span>
+                    <span class="indicador" onclick="slideAtual(3)"></span>
+                </div>
             </article>
         </section>
 
@@ -204,6 +231,7 @@
     <footer>
         Desenvolvido por Saulo Alves
     </footer>
+    
 </body>
 
 </html>
