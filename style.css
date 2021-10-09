@@ -67,8 +67,8 @@ div.screenshot-legenda {
     background-position: center;
     background-size: 50%;
     background-repeat: no-repeat;
-    width: 60px;
-    height: 80px;
+    width: 40px;
+    height: 60px;
     position: absolute;
     top: 50%;
     transform: translate(0, -50%);
@@ -78,9 +78,10 @@ div.screenshot-legenda {
     transition: background-color 0.5s ease;
 }
 
+/*
 .setas:hover {
     background-color: #777;
-}
+}*/
 
 .seta-direita {
     background-image: url("./images/right-arrow.png");
@@ -124,8 +125,8 @@ div.screenshot-legenda {
 
 .indicador {
     cursor: pointer;
-    height: 20px;
-    width: 50px;
+    height: 15px;
+    width: 30px;
     background-color: #bbb;
     border-radius: 25%;
     display: inline-block;
