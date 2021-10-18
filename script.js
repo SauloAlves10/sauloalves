@@ -1,21 +1,25 @@
 let numSlide = 1
-mostrarSlide(numSlide)
+mostrarSlide(numSlide,"vba-excel")
+mostrarSlide(numSlide,"php-mysql")
+mostrarSlide(numSlide,"ahk")
 
-function mudarSlide(ns) {
-    mostrarSlide(numSlide += ns)
+function mudarSlide(ns, app) {
+    mostrarSlide(numSlide += ns, app)
 }
 
-function slideAtual(ns) {
-    mostrarSlide(numSlide = ns)
+function slideAtual(ns, app) {
+    mostrarSlide(numSlide = ns, app)
 }
 
-function mostrarSlide(ns) {
-    let slides = document.getElementsByClassName("slide")
-    let indicadores = document.getElementsByClassName("indicador")
+function mostrarSlide(ns, app) {
+    let elem = document.getElementById(app)
+    let slides = elem.getElementsByClassName("slide")
+    let indicadores = elem.getElementsByClassName("indicador")
     
     if (ns > slides.length) {
         numSlide = 1
     }
+    
     if (ns < 1) {
         numSlide = slides.length
     }
@@ -30,5 +34,4 @@ function mostrarSlide(ns) {
 
     slides[numSlide - 1].style.display = "block"
     indicadores[numSlide - 1].className += " ativo"
-    console.log(indicadores)
 }
