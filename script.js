@@ -1,7 +1,9 @@
 let numSlide = 1
-mostrarSlide(numSlide,"vba-excel")
-mostrarSlide(numSlide,"php-mysql")
-mostrarSlide(numSlide,"ahk")
+let apps = ["vba-excel", "php-mysql", "ahk"]
+
+apps.forEach(element => {
+    mostrarSlide(numSlide, element)
+})
 
 function mudarSlide(ns, app) {
     mostrarSlide(numSlide += ns, app)
